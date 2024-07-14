@@ -1,10 +1,10 @@
 black       = '#32302F'; // bg
-red         = '#472322'; // red
-green       = '#3D4220'; // green
-yellow      = '#574833'; // yellow
-blue        = '#0F3A42'; // blue
-magenta     = '#543937'; // purple
-cyan        = '#424A3E'; // aqua
+red         = '#EA6962'; // red
+green       = '#A9B665'; // green
+yellow      = '#D8A657'; // yellow
+blue        = '#7DAEA3'; // blue
+magenta     = '#D3869B'; // purple
+cyan        = '#89B482'; // aqua
 white       = '#A89984'; // light gray
 lightBlack  = '#928374'; // medium gray
 lightRed    = '#EA6962'; // red
